@@ -1,8 +1,8 @@
 #
-# Ruby For Kids Project 3: Bigger Hello World
+# Assignment: Bigger Hello World
 # Programmed By: Chris Haupt
 # Using Irb to learn how to manipulate strings.
-# Code Tested By: Pavel Stepanov
+# Code Tested By Pavel Stepanov
 #
 
 h1 = "H       H"

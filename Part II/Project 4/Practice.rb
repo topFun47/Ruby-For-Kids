@@ -2,8 +2,8 @@
 # Ruby For Kids Project 4: Shapes
 # Programmed By: Chris Haupt
 # Experiment with drawing AScII art shapes using code.
-# Code Tested By: Pavel Stepanov
-# Practice: Shapes.rb 
+# Code Tested By Pavel Stepanov
+# Practice: Shapes.rb
 #
 
 

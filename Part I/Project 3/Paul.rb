@@ -1,10 +1,10 @@
 #
-# Ruby For Kids Project 3: Bigger Hello World
+# Extra Credit: Bigger Hello World
 # Programmed By: Chris Haupt
 # Using Irb to learn how to manipulate strings.
-# Code Tested By: Pavel Stepanov
-# Extra Credit: Create the letters that make up your name
-#               and print them.
+# Code Tested By Pavel Stepanov
+# Assignment: Create the letters that make up your name
+#             and print them.
 #
 
 

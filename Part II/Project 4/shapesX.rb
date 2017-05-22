@@ -1,10 +1,7 @@
 #
-# Ruby For Kids Project 4: Shapes
-# Programmed By: Chris Haupt
-# Experiment with drawing ASCII art shapes using code.
-# Code Tested By: Pavel Stepanov
-# Experiment with Shapes.rb
-# Ojective: Find Bug
+# Experiment01: Find Bug
+# Code Tested By Pavel Stepanov
+# Experiment with re-writing the code completely fixing the bug
 #
 
 puts " "

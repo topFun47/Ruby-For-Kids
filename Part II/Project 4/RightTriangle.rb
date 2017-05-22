@@ -1,10 +1,10 @@
 #
-# Ruby For Kids Project 4: Shapes
+# Extra Credit: Shapes
 # Programmed By: Chris Haupt
 # Experiment with drawing ASCII art shapes using code.
-# Code Tested By: Pavel Stepanov
-# Extra Credit: Seperate the triangle code,
-#               and draw half a triangle.
+# Code Tested By Pavel Stepanov
+# Assignment: Seperate the triangle code,
+#             and draw half a triangle.
 # Monday May 15th
 #
 
