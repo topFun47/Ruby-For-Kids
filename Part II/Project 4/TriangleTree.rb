@@ -1,10 +1,10 @@
 #
-# Ruby For Kids Project 4: Shapes
+# Extra Credit: Shapes
 # Programmed By: Chris Haupt
 # Experiment with drawing ASCII art shapes using code.
-# Code Tested By: Pavel Stepanov
-# Extra Credit: Draw three triangles, one on top another
-#               using a loop.
+# Code Tested By Pavel Stepanov
+# Assignment: Draw three triangles, one on top another
+#             using a loop.
 # Thursday May 18th
 #
 

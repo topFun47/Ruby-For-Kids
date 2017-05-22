@@ -1,9 +1,9 @@
 #
-# Ruby For Kids Project 4: Shapes
+# Extra Credit: Shapes
 # Programmed By: Chris Haupt
 # Experiment with drawing ASCII art shapes using code.
-# Code Tested By: Pavel Stepanov
-# Extra Credit: Come up with  a new shape method.
+# Code Tested By Pavel Stepanov
+# Assignment: Come up with  a new shape method.
 # Monday May 15th
 #
 
