@@ -1,0 +1,10 @@
+123456781234567890123--123456789----1234567
+ppppppp       A	       U       U    L
+p      p     A A       U       U    L
+p      p    A   A      U       U    L
+ppppppp	   A     A     U       U    L
+p	  AAAAAAAAA    U       U    L
+p	 A         A   U       U    L  
+p	A           A   U U U U     L L L L  
+123456781234567890123  123456789  1234567
+       0 SPACES       2 SPACES   4 SPACES
