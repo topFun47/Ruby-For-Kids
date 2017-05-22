@@ -1,8 +1,8 @@
 #
 # Ruby For Kids Project 1: Install
-# Written By: Chris Haupt
+# Programmed By: Chris Haupt
 # Instructions for installing Atom and Ruby
-# Installed By: Pavel Stepanov
+# Code Tested By: Pavel Stepanov
 #
 
 
