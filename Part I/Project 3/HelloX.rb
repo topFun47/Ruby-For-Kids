@@ -1,10 +1,10 @@
 #
-# Ruby For Kids Project 3: Bigger Hello World
+# Extra Credit: Bigger Hello World
 # Programmed By: Chris Haupt
 # Using Irb to learn how to manipulate strings.
-# Code Tested By: Pavel Stepanov
-# Extra Credit: Instead of using the string concatenation
-#               operater,+, try using string interpolation instead.
+# Code Tested By Pavel Stepanov
+# Assignment: Instead of using the string concatenation
+#             operater,+, try using string interpolation instead.
 #
 
 h1 = "H       H"
