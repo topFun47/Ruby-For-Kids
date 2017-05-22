@@ -4,7 +4,7 @@
 # Using a combination of your terminal program
 # and Interactive Ruby to do quick experiments
 # that let you try new things with Ruby.
-# Code Tested By: Pavel Stepanov
+# Code Tested By Pavel Stepanov
 #
 
 

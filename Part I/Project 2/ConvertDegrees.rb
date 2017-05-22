@@ -1,11 +1,11 @@
 #
-# Ruby For Kids Project 2: Big Numbers
+# Extra Credit: Big Numbers
 # Programmed By: Chris Haupt
-#   Using a combination of your terminal program
+# Using a combination of your terminal program
 # and Interactive Ruby to do quick experiments
 # that let you try new things with Ruby.
-# Code Tested By: Pavel Stepanov
-# Extra Credit: Try changing the temperature calculation
+# Code Tested By Pavel Stepanov
+# Assignment: Try changing the temperature calculation
 #               to convert degrees Celsius to Fahrenheit.
 #
 
