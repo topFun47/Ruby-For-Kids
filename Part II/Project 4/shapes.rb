@@ -1,8 +1,7 @@
 #
 # Assignment: Shapes
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # Experiment with drawing ASCII art shapes using code.
-# Code Tested By Pavel Stepanov
 # Started Thursday May 11th
 # Completed Sunday May 14th
 #
