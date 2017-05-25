@@ -1,8 +1,7 @@
 #
 # Extra Credit: Bigger Hello World
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # Using Irb to learn how to manipulate strings.
-# Code Tested By Pavel Stepanov
 # Assignment: Instead of using the string concatenation
 #             operater,+, try using string interpolation instead.
 #
