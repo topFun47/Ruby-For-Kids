@@ -1,8 +1,7 @@
 #
 # Assignment: Simple Adventure
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # A Random text adventure game.
-# Code Tested By Pavel Stepanov
 # Started Saturday May 20th 2017
 # Completed Sunday May 21st 2017
 #

@@ -1,8 +1,7 @@
 #
 # Extra Credit: Simple Adventure
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # A Random text adventure game.
-# Code Tested By Pavel Stepanov
 # Assignment: Create "monster generator" that makes the
 #             description of the monster more interesting.
 # Started Sunday May 21st 2017
