@@ -1,8 +1,7 @@
 #
 # Practice: Adventure
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # A Random text adventure game
-# Code Tested By Pavel Stepanov
 # Assignment: Practice re-writing Adventure
 #
 #
@@ -22,7 +21,7 @@ monster = false
 current_room = ""
 
 # Than, Write the code that will introduce the player to the game.
-puts "You are trapped in the dungeon. Collect trease and try to escape"
+puts "You are trapped in the dungeon. Collect treasure and try to escape"
 puts "before an evil monster gets you!"
 puts "To play, type one of the command choices on puts."
 puts ""

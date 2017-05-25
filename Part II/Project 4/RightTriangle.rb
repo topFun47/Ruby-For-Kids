@@ -1,8 +1,7 @@
 #
 # Extra Credit: Shapes
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # Experiment with drawing ASCII art shapes using code.
-# Code Tested By Pavel Stepanov
 # Assignment: Seperate the triangle code,
 #             and draw half a triangle.
 # Monday May 15th

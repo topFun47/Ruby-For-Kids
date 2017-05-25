@@ -1,8 +1,7 @@
 #
 # Extra Credit: Simple Adventure
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # A Random text adventure game.
-# Code Tested By Pavel Stepanov
 # Assignment: Add more descriptions for the room generator.
 # Started Sunday May 21st 2017
 # Completed Monday May 22nd 2017

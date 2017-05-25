@@ -1,8 +1,7 @@
 #
 # Extra Credit: Bigger Hello World
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # Using Irb to learn how to manipulate strings.
-# Code Tested By Pavel Stepanov
 # Assignment: Create the letters that make up your name
 #             and print them.
 #

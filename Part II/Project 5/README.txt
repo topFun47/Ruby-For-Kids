@@ -1,8 +1,7 @@
 #
 # Ruby For Kids Project 5: Simple Adventure
-# Programmed By: Chris Haupt
+# Programmed By Pavel Stepanov
 # A Random text adventure game.
-# Code Tested By Pavel Stepanov
 #
 
 

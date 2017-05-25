@@ -1,6 +1,6 @@
 #
 # Experiment01: Find Bug
-# Code Tested By Pavel Stepanov
+# Programmed By Pavel Stepanov
 # Experiment with re-writing the code completely fixing the bug
 #
 

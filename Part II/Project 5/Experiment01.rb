@@ -1,6 +1,6 @@
 #
 # Experiment01: Monster Generator
-# Code Tested By Pavel Stepanov
+# Programmed By Pavel Stepanov
 # Experiment began with the while loop, and concluded with the "monster generator"
 # Experiment on the while loop examined it's nessasary components to function properly.
 # later resulting in  how to create a "monster generater".
