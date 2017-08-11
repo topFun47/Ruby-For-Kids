@@ -1,10 +1,10 @@
-#
-# Extra Credit: Bigger Hello World
-# Programmed By Pavel Stepanov
-# Using Irb to learn how to manipulate strings.
-# Assignment: Instead of using the string concatenation
-#             operater,+, try using string interpolation instead.
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Extra Credit: Bigger Hello World                                #
+# Programmed By Pavel Stepanov                                    #
+# Using Irb to learn how to manipulate strings.                   #
+# Assignment: Instead of using the string concatenation           #
+#             operater,+, try using string interpolation instead. #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 h1 = "H       H"
 h2 = h1
