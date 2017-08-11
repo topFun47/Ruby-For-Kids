@@ -1,11 +1,11 @@
-#
-# Extra Credit: Bigger Hello World
-# Programmed By Pavel Stepanov
-# Using Irb to learn how to manipulate strings.
-# Assignment: Change the letters being used to lowercase letters
-#             without re-entering the values in each variable.
-#             Hint: Use the dwncase method for a string.
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Extra Credit: Bigger Hello World                                #
+# Programmed By Pavel Stepanov                                    #
+# Using Irb to learn how to manipulate strings.                   #
+# Assignment: Change the letters being used to lowercase letters  #
+#             without re-entering the values in each variable.    #
+#             Hint: Use the dwncase method for a string.          #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 h1 = "H       H"
 h2 = h1
