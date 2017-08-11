@@ -1,10 +1,10 @@
-#
-# Extra Credit: Shapes
-# Programmed By Pavel Stepanov
-# Experiment with drawing ASCII art shapes using code.
-# Assignment: Come up with  a new shape method.
-# Monday May 15th
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Extra Credit: Shapes                                  #
+# Programmed By Pavel Stepanov                          #
+# Experiment with drawing ASCII art shapes using code.  #
+# Assignment: Come up with  a new shape method.         #
+# Monday May 15th                                       #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 def new_shape(height, outside_letter, inside_letter)
   1.upto(height) do |row|
