@@ -1,8 +1,8 @@
-#
-# Assignment: Bigger Hello World
-# Programmed By Pavel Stepanov
-# Using Irb to learn how to manipulate strings.
-#
+# # # # # # # # # # # # # # # # # # # # # # # # #
+# Assignment: Bigger Hello World                #
+# Programmed By Pavel Stepanov                  #
+# Using Irb to learn how to manipulate strings. #
+# # # # # # # # # # # # # # # # # # # # # # # # #
 
 h1 = "H       H"
 h2 = h1
