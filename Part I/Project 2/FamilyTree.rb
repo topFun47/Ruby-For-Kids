@@ -1,12 +1,12 @@
-########################################################
-# Extra Credit: Big Numbers                            #
-# Programmed By Pavel Stepanov                         #
-# Using a combination of your terminal program         #
-# and Interactive Ruby to do quick experiments         #
-# that let you try new things with Ruby.               #
-# Assignment: Using variables to store all the ages    #
-#               of my family, and adding them together.#
-########################################################
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Extra Credit: Big Numbers                             #
+# Programmed By Pavel Stepanov                          #
+# Using a combination of your terminal program          #
+# and Interactive Ruby to do quick experiments          #
+# that let you try new things with Ruby.                #
+# Assignment: Using variables to store all the ages     #
+#               of my family, and adding them together. #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 tanyas_age = 28
 valyas_age = 26
