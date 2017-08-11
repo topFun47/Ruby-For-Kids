@@ -1,12 +1,12 @@
-###############################################
-# Extra Credit: Big Numbers                   #
-# Programmed By Pavel Stepanov                #
-# Using a combination of your terminal program#
-# and Interactive Ruby to do quick experiments#
-# that let you try new things with Ruby.      #
-# Assignment: Can Ruby store negative numbers?#
-#               What about decimals?          #
-###############################################
+# # # # # # # # # # # # # # # # # # # # # # # # # 
+# Extra Credit: Big Numbers                     #
+# Programmed By Pavel Stepanov                  #
+# Using a combination of your terminal program  #
+# and Interactive Ruby to do quick experiments  #
+# that let you try new things with Ruby.        #
+# Assignment: Can Ruby store negative numbers ? #
+#             What about decimals?              #
+# # # # # # # # # # # # # # # # # # # # # # # # #
 
 puts "Can Ruby store negative numbers?"
 puts " How about decimals?"
