@@ -1,10 +1,10 @@
-#
-# Extra Credit: Bigger Hello World
-# Programmed By Pavel Stepanov
-# Using Irb to learn how to manipulate strings.
-# Assignment: Create the letters that make up your name
-#             and print them.
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Extra Credit: Bigger Hello World                      #
+# Programmed By Pavel Stepanov                          #
+# Using Irb to learn how to manipulate strings.         #
+# Assignment: Create the letters that make up your name #
+#             and print them.                           #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 
 p1 = "PPPPPPP "
