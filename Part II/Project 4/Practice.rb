@@ -1,9 +1,9 @@
-#
-# Ruby For Kids Project 4: Shapes
-# Programmed By Pavel Stepanov
-# Experiment with drawing AScII art shapes using code.
-# Practice: Shapes.rb
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Ruby For Kids Project 4: Shapes                       #
+# Programmed By Pavel Stepanov                          #
+# Experiment with drawing AScII art shapes using code.  #
+# Practice: Shapes.rb                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 
 puts "Welcome to shapes"
