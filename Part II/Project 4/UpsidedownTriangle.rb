@@ -1,11 +1,11 @@
-#
-# Extra Credit: Shapes
-# Programmed By Pavel Stepanov
-# Experiment with drawing ASCII art shapes using code.
-# Assignment: Create a method called flipped_traingle
-#               and have it draw with the pointed end down.
-#Thursday May 18th
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Extra Credit: Shapes                                      #
+# Programmed By Pavel Stepanov                              #
+# Experiment with drawing ASCII art shapes using code.      #
+# Assignment: Create a method called flipped_traingle       #
+#               and have it draw with the pointed end down. #
+#Thursday May 18th                                          #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 def flipped_triangle(outside_letter, inside_letter, height)
   height.downto(1) do |row|
