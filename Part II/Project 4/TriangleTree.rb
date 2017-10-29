@@ -1,11 +1,11 @@
-#
-# Extra Credit: Shapes
-# Programmed By Pavel Stepanov
-# Experiment with drawing ASCII art shapes using code.
-# Assignment: Draw three triangles, one on top another
-#             using a loop.
-# Thursday May 18th
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Extra Credit: Shapes                                  #
+# Programmed By Pavel Stepanov                          #
+# Experiment with drawing ASCII art shapes using code.  #
+# Assignment: Draw three triangles, one on top another  #
+#             using a loop.                             #
+# Thursday May 18th                                     #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 def triangle(height, outside_letter, inside_letter)
   1.upto(height) do |row|
