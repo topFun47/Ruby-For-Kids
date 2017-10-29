@@ -1,11 +1,11 @@
-#
-# Extra Credit: Shapes
-# Programmed By Pavel Stepanov
-# Experiment with drawing ASCII art shapes using code.
-# Assignment: Seperate the triangle code,
-#             and draw half a triangle.
-# Monday May 15th
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Extra Credit: Shapes                                  #
+# Programmed By Pavel Stepanov                          #
+# Experiment with drawing ASCII art shapes using code.  #
+# Assignment: Seperate the triangle code,               #
+#             and draw half a triangle.                 #
+# Monday May 15th                                       #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 def right_triangle(height, outside_letter, inside_letter)
   1.upto(height) do |row|
