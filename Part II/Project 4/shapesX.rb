@@ -1,8 +1,8 @@
-#
-# Experiment01: Find Bug
-# Programmed By Pavel Stepanov
-# Experiment with re-writing the code completely fixing the bug
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Experiment01: Find Bug                                        #
+# Programmed By Pavel Stepanov                                  #
+# Experiment with re-writing the code completely fixing the bug #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 puts " "
 puts "Welcome to shapes"
