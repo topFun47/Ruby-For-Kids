@@ -1,10 +1,10 @@
-#
-# Assignment: Shapes
-# Programmed By Pavel Stepanov
-# Experiment with drawing ASCII art shapes using code.
-# Started Thursday May 11th
-# Completed Sunday May 14th
-#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Assignment: Shapes                                    #
+# Programmed By Pavel Stepanov                          #
+# Experiment with drawing ASCII art shapes using code.  #
+# Started Thursday May 11th                             #
+# Completed Sunday May 14th                             #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 def rectangle(height, width,outside_letter, inside_letter)
   1.upto(height) do |row|
