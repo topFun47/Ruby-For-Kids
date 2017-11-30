@@ -20,3 +20,6 @@ Step 3
 # Enter ruby dk.rb init
 # Enter ruby dk.rb install
 # Enter gem install gosu
+
+Step 4
+# Go to http://www.atom.io/ 
