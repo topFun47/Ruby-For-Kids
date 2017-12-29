@@ -153,7 +153,7 @@ def get_total_guess_count
 end
 def get_guess
   @current_number_of_guesses += 1
-  @current_guess = get.to_i
+  @current_guess = gets.to_i
 end
 
 
@@ -176,7 +176,7 @@ while !game.done? do
   if game.get_high_number
     if game.get_guess_count
       game.prepare_computer_number
-      while !game.round_done? do
+      while !game.round_done do
         puts ""
         game.get_player_guess
         game.show_results
