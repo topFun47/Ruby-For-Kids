@@ -5,18 +5,10 @@
 # Started Sunday May 28th 2017                                #
 # Completed                                                   #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 class Game
   # Game class code goes here
 TOTAL_ROUNDS = 3
-def round
-  @round
-end
-def done?
-  @round > TOTAL_ROUNDS
-end
-def round_done?
-  @round_done
-end
 def initialize(player)
   @player = player
   @round = 0
@@ -28,14 +20,24 @@ def next_round
   @round += 1
   @player.prepare_for_new_round
 end
+def round
+  @round
+end
+def done?
+  @round > TOTAL_ROUNDS
+end
+def round_done
+  @round_done
+end
 
   def get_high_number
-    print "I'll pick a number between 1 and what number?"
+    print "I'll pick a number between 1 and what number? "
     high_number = @player.get_high_number
-    if high_number <=1
+    if high_number <= 1
       puts "Oops! The number must be larger than 1. Try again."
-    else
       return false
+    else
+      return true
     end
   end
     def get_guess_count
@@ -43,15 +45,16 @@ end
       puts "How many guesses do you think it will take?"
       print "(average would be #{average}): "
       total_guess_count = @player.get_total_guess_count
-      if total_guess_count< 1
+      if total_guess_count < 1
         puts "Seriously #{@player.name}?! You need to at least try!"
         return false
       else
         return true
       end
     end
+    # might need to move the method below up one
 def calculate_typical_number_of_guesses
-  typical_count = math.sqrt(@player.high_number)
+  typical_count = Math.sqrt(@player.high_number)
   typical_count.round
 end
 def prepare_computer_number
@@ -168,7 +171,7 @@ player = Player.new(name)
 game = Game.new(player)
 while !game.done? do
   puts ""
-  puts "------> Round #{game.round}"
+  puts "------> Round ##{game.round}"
   puts ""
   if game.get_high_number
     if game.get_guess_count
@@ -183,5 +186,6 @@ while !game.done? do
   end
 end
 puts ""
-game.print_final_score
-end end
+  game.print_final_score
+end
+end
