@@ -1,20 +1,36 @@
-Started Sunday May 28th 2017
+Project 6: Number Guessing
+
 
 						Sunday May 28th
--Progress Report						09:12 PM
+  -Progress Report						09:12 PM
 	- 1 hr 7 min
 	  - 17 / 25 
 
+
+
 						Wednesday December 27th
--Progress Report						07:54 PM
-	- 0 hr 0 min
-	  - 17 / 25
--Progress Report						10:36 PM
+  -Progress Report						10:36 PM
 	- 2 hr  42 min
 	  - 24 / 25
+
+
+
 						Thursday December 28th
--Progress Report						07:10 PM
+  -Progress Report						07:10 PM
 								
 	- 4 hr 55 min
 	  - 24 / 25
-								12:05
+							
+
+--------------------------------------------------------------------------
+- Extra Credit
+
+	0 / 5
+
+				222 days 8 hrs 44min on Assignment
+				0 days 0 hrs 00min on extra credit
+				____________________________________
+			Total   222 days 8 hrs 44min spent on Project 6
+
+
+

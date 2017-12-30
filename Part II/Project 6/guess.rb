@@ -3,7 +3,7 @@
 # Programmed by Paul Stepanov                                 #
 # A number guessing game in which the hints might not be true #
 # Started Sunday May 28th 2017                                #
-# Completed                                                   #
+# Finished Thursday December 28th 2017                        #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 class Game
