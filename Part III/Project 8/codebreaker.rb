@@ -1,10 +1,10 @@
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Ruby For Kids Project 8: Code Breaker                                            #
-# Programmed By: Pavel Stepanov                                                    #
-# A program that will encrypt and decrypt another document using the Caesar cipher #
-# Started: Tuesday January 2nd 2018                                                #
-# Ended:   Tuesday January 2nd 2018                                                #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Ruby For Kids Project 8: Code Breaker                                             #
+# Programmed By: Pavel Stepanov                                                     #
+# A program that will encrypt and decrypt another document using the Caesar cipher  #
+# Started: Tuesday January 2nd 2018                                                 #
+# Ended: Tuesday January 2nd 2018                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 class Caesar
 # Code will go here
 def initialize(shift)
