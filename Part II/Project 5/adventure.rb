@@ -1,10 +1,10 @@
-#
-# Assignment: Simple Adventure
-# Programmed By Pavel Stepanov
-# A Random text adventure game.
-# Started Saturday May 20th 2017
-# Completed Sunday May 21st 2017
-#
+# # # # # # # # # # # # # # # # # #
+# Assignment: Simple Adventure    #
+# Programmed By Pavel Stepanov    #
+# A Random text adventure game.   #
+# Started Saturday May 20th 2017  #
+# Completed Sunday May 21st 2017  #
+# # # # # # # # # # # # # # # # # #
 
 def create_room
   "You are in a #{size} #{color} #{room_type}. There is an exit on the #{direction} wall."
