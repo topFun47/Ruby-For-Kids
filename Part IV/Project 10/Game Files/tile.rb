@@ -86,3 +86,4 @@ end
 def tile_can_be_entered?
 is_empty? || is_start? || is_treasure? || is_exit?
 end
+end

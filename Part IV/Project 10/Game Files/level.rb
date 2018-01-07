@@ -49,14 +49,14 @@ elsif id == Gosu::KbDown
 row_delta = 1
 end
 if move_valid?(@player, column_delta, row_delta)
-@player.move_by(column_delta, row_delta)
-tile = get_tile(@player.column, @player.row)
-if tile.is_exit?
-@exit_reached = true
-tile.hide!
-else
-@player.pick_up(tile)
-end
+  @player.move_by(column_delta, row_delta)
+  tile = get_tile(@player.column, @player.row)
+  if tile.is_exit?
+    @exit_reached = true
+    tile.hide!
+  else
+    @player.pick_up(tile)
+  end
 end
 end
 def get_tile(column, row)
@@ -84,4 +84,5 @@ def draw
 tile.draw
 end
 @player.draw
+end
 end
