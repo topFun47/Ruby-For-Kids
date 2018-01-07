@@ -17,9 +17,6 @@ self.caption = "Amazing"
 # More code will go here
 end
 # Even more code will go here
-end
-window = Amazing.new
-window.show
 def update
 @game.update
 end
@@ -29,3 +26,8 @@ end
 def button_down(id)
 @game.button_down(id)
 end
+end
+
+
+window = Amazing.new
+window.show
