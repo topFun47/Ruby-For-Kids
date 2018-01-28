@@ -55,7 +55,7 @@ if move_valid?(@player, column_delta, row_delta)
     @exit_reached = true
     tile.hide!
   else
-    @player.pick_up(tile)
+    pick_up(tile)
   end
 end
 end
