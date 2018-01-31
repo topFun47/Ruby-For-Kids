@@ -7,9 +7,7 @@ class Player < Tile
     super(window, column, row, Tile::PLAYER_TYPE)
     @score = 0
   end
-end
-def pick_up(tile)
-  if tile.is_treasure?
-    tile.make_empty
+  def add_score
+    @score =+ 1
   end
 end

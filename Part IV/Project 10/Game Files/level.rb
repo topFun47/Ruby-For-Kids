@@ -54,10 +54,13 @@ if move_valid?(@player, column_delta, row_delta)
   if tile.is_exit?
     @exit_reached = true
     tile.hide!
-  else
-    pick_up(tile)
+else
+  if tile.is_treasure?
+    tile.make_empty
+    @player.add_score
   end
-end
+    end
+  end
 end
 def get_tile(column, row)
 if column < 0 || column >= @total_columns || row < 0 || row >= @total_rows
