@@ -4,7 +4,7 @@
 # A mazelike treasure search game           #
 # To run the program, use: ruby amazing.rb  #
 # Started: Friday Jan 5th 2018              #
-# Ended:                                    #
+# Ended: Sunday Jan 31st 2018               #
 # # # # # # # # # # # # # # # # # # # # # # #
 require 'gosu'
 require_relative 'game'
