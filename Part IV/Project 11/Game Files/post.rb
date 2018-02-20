@@ -45,7 +45,8 @@ end
 def contains?(mouse_x, mouse_y)
 mouse_x >= @x && mouse_x <= @x + @width &&
 mouse_y >= @y && mouse_y <= @y + @height
-enddef center
+end
+def center
 @x + (@width / 2)
 end
 def base
