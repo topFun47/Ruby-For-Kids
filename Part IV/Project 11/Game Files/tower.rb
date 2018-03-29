@@ -5,7 +5,7 @@
 # To run the program, use:        #
 # ruby tower.rb                   #
 # Started: Friday Feb 10th 2018   #
-# Ended:                          #
+# Ended: Wednesday Mar 28th 2018  #
 # # # # # # # # # # # # # # # # # #
 
 
