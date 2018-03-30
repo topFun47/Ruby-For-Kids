@@ -13,7 +13,13 @@ class Game
 
   GENERATION_FREQUENCY = 100
   SEED_BLINKER = [[11,10],[11,11],[11,12]]
-  SEED_LIST    = [SEED_BLINKER]
+  SEED_RANDOM = []
+SEED_GLIDER = [[1,0],[2,1],[0,2],[1,2],[2,2]]
+SEED_THUNDER = [[30,19],[30,20],[30,21],[29,17],[30,17],[31,17]]
+SEED_GROWER = [[12,12],[13,12],[14,12],[16,12],[12,13],[15,14],[16,14],[13,15],[14,15],[16,15],[12,16],
+[14,16],[16,16]]
+
+  SEED_LIST    = [SEED_RANDOM, SEED_BLINKER, SEED_GLIDER, SEED_THUNDER, SEED_GROWER]
   GRID_WIDTH   = 80
   GRID_HEIGHT  = 80
   def initialize(window, generations, sim)
@@ -27,6 +33,7 @@ class Game
     @max_generations = generations.to_i
     @status_message = "Completed"
   end
+
   def simulation_over?
     (@max_generations > 0) && (@generation >= @max_generations)
   end
@@ -65,7 +72,7 @@ class Game
   end
   def evolve
     life = []
-    @grid.each_cell_position do |x, y|
+    @grid.each_cell_position do |x,y|
       if determine_fate(x, y)
         life << [x, y]
       end
@@ -79,4 +86,4 @@ class Game
     neighbors.each {|n| score += n.life_points}
     (cell.alive? && score >= 2 && score <= 3 ) || (score == 3)
   end
-end 
+end

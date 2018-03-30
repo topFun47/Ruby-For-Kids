@@ -19,7 +19,9 @@ class Grid
   end
   def setup_grid
     grid = []
-    @total_rows.times do |col|
+    @total_rows.times do |row|
+      cells = []
+      @total_columns.times do |col|
       cells << Cell.new(@window, false, col, row)
     end
     grid << cells
@@ -33,7 +35,7 @@ def plant_seeds(board, seeds)
       board[rand(@total_rows)][rand(@total_columns)].live!
     end
   else
-    seeds.each do |x, y|
+    seeds.each do |x,y|
       cell(x,y).live!
     end
   end
@@ -55,7 +57,7 @@ end
 def each_cell_position
   @total_rows.times do |row|
     @total_columns.times do |col|
-      yield cell(col, row)
+      yield col, row
     end
   end
 end
@@ -66,8 +68,8 @@ def lifeless?
 end
 def life
   living_cells = []
-  each_cell_position do |x, y|
-    living_cells << [x, y] if cell(x, y).alive?
+  each_cell_position do |x,y|
+    living_cells << [x,y] if cell(x,y).alive?
   end
   living_cells
 end
@@ -92,4 +94,5 @@ def draw
       grid_cell.draw
     end
   end
+end
 end
